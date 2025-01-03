@@ -1,6 +1,6 @@
 {
   "name": "as-bs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Near zero-alloc centralized buffer for high performance applications",
   "types": "assembly/index.ts",
   "author": "Jairus Tanaka",
